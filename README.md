@@ -2,6 +2,7 @@
 
 ソフトウェア工学課題08
 GitHub上のリポジトリのフォーク
+写真撮り忘れたため2回目
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
